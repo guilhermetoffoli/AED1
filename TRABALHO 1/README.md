@@ -1,5 +1,5 @@
 # Trabalho 1
-Projects of college of the subject Data structure and algorithms 1, wich includes exercising lists, linked or not.
+Project number 1 of college of the subject Data structure and algorithms 1, wich includes exercising lists, linked or not.
 Each one have the basics functions of lists such as, create a list (instantiate), erase it, leave it empty, append, remove and the length, but each one have a peculiar functions due its data type.
 
 Exercise 1 is about a sequential list of chars, using abstract using type, with extra function remove at given position, remove vowel and interleave.
